@@ -3,17 +3,6 @@
 BÀI TẬP HỌC PHẦN PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG ĐA NỀN TẢNG
 Link github: 
 Link video demo: https://youtu.be/w2Mdnk0-CKY
-Thông tin sinh viên
-Họ và tên
-Trần Thảo Nguyên
-Mã sinh viên
-22IT195
-Lớp học phần
-Phát triển ứng dụng di động đa nền tảng (4)
-Lớp Sinh hoạt
-22JIT
-Email
-nguyentt.22git@vku.udn.vn
 
 Mô tả các bài lab
 Lab 1: I’M A RICH
@@ -70,6 +59,7 @@ Lab 9: Clima - Powering Your React NativeApp with Live Web Data
 Nội dung tìm hiểu: Tích hợp API OpenWeatherMap và sử dụng Geolocator để lấy vị trí.
 Chức năng thực hiện: Màn hình tải: Lấy vị trí và hiển thị thời tiết.
 Màn hình chính: Hiển thị nhiệt độ, thành phố, và mô tả thời tiết, cho phép nhập tên thành phố để tra cứu.
+
 
 
 
